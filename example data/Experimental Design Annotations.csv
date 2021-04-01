@@ -1,0 +1,25 @@
+﻿Replicate,Condition,Infected,Time
+1,Mock - 4 hr,Mock,4 hr
+1,4 hr,Infected,4 hr
+1,12 hr,Infected,12 hr
+1,24 hr,Infected,24 hr
+1,48 hr,Infected,48 hr
+1,72 hr,Infected,72 hr
+1,96 hr,Infected,96 hr
+1,Mock - 96 hr,Mock,96 hr
+2,Mock - 4 hr,Mock,4 hr
+2,4 hr,Infected,4 hr
+2,12 hr,Infected,12 hr
+2,24 hr,Infected,24 hr
+2,48 hr,Infected,48 hr
+2,72 hr,Infected,72 hr
+2,96 hr,Infected,96 hr
+2,Mock - 96 hr,Mock,96 hr
+3,Mock - 4 hr,Mock,4 hr
+3,4 hr,Infected,4 hr
+3,12 hr,Infected,12 hr
+3,24 hr,Infected,24 hr
+3,48 hr,Infected,48 hr
+3,72 hr,Infected,72 hr
+3,96 hr,Infected,96 hr
+3,Mock - 96 hr,Mock,96 hr
